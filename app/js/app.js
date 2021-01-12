@@ -1,4 +1,3 @@
-
 const controller = new NegociacaoControler;
 document
     .querySelector('.form')
